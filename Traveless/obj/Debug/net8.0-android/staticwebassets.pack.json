@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\Traveless.styles.css",
+      "PackagePath": "staticwebassets\\Traveless.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.Traveless.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.Traveless.props",
+      "PackagePath": "build\\Traveless.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.Traveless.props",
+      "PackagePath": "buildMultiTargeting\\Traveless.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.Traveless.props",
+      "PackagePath": "buildTransitive\\Traveless.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
