@@ -1,27 +1,35 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Traveless.styles.css",
+      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Traveless.styles.css",
       "PackagePath": "staticwebassets\\Traveless.styles.css"
     },
     {
-      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\Data\\airports.csv",
+      "PackagePath": "staticwebassets\\Data\\airports.csv"
+    },
+    {
+      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\Data\\flights.csv",
+      "PackagePath": "staticwebassets\\Data\\flights.csv"
+    },
+    {
+      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\index.html",
+      "Id": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
