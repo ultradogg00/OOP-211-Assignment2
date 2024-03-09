@@ -1,6 +1,86 @@
 ﻿@page "/flights"
-<h3>Flight finder</h3>
+<h3 class="text-center">Flight finder</h3>
+
+<div class="flights container">
+    <div class="row">
+        <div class="col">
+            From:
+            <input type="text" @bind="deptName" placeholder="Any" />
+
+
+        </div>
+        <div class="col ">
+            To:
+            <input type="text" @bind="arivalName" placeholder="Any" />
+        </div>
+        <div class="col ">
+            Day:
+            <input type="text" @bind="day" placeholder="Any" />
+        </div>
+
+        <div class="col ">
+            <button type="submit" class="btn btn-primary btn-sm btn-block m-0" onclick="@(() => searchFLights(deptName,arivalName,day))">Find flight</button>
+
+        </div>
+    </div>
+
+
+
+
+
+</div>
+<div class="loadedF container">
+    <h3 class="text-center">Flights</h3>
+    @if(foundflight.Count() == 0){
+        <p id="loaded-flight">Loading</p>
+    }
+    else
+    {
+        <p>@foundflight[0].getFlightInfo()</p>
+        
+    }
+    
+    
+
+</div>
+
+<!--make this a table-->
+<div class="reserve container">
+    <div class="row">
+        <h3 class="text-center">Reserve</h3>
+        @if (foundflight.Count() == 0)
+        {
+            <p>Select A flight</p>
+        }
+        else
+        {
+            <div class="row">
+                Flight Code:
+                <input type="text" placeholder="Flight" value="@selFlightCode" readonly />
+                Airline:
+                <input type="text" placeholder="Airline" @bind="selAirline" readonly />
+                Day:
+                <input type="text" placeholder="Day" @bind="selDeparture" readonly />
+                Time:
+                <input type="text" placeholder="Time" @bind="selDepartureTime" readonly />
+                Cost:
+                <input type="text" placeholder="0" @bind="selCost" readonly />
+                Name:
+                <input type="text" placeholder="Name" @bind="customerName" />
+                Citizenship:
+                <input type="text" placeholder="Citzenship" @bind="customerName" />
+
+                <button type="submit" class=" mt-4 btn btn-primary btn-sm ">Reserve</button>
+                <p id="resCode" class="mt-4  text-center">Reservation Code <span>ifd</span></p>
+
+            </div>
+        }
+
+       
+    </div>
+</div>
 
 @code {
+    //
 
-}
+}   

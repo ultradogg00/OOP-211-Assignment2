@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oj3ArVZ7z+6OJoe1HYb1orpBvEbX00Qft9k9qtkUXMc=",
+  "Hash": "SHQg7DsFgYeKs7Ja9qZbUAsznlT8uKwFFtNYfjzZBpY=",
   "Source": "Traveless",
   "BasePath": "/",
   "Mode": "Root",
@@ -10,17 +10,17 @@
     {
       "Name": "Traveless\\wwwroot",
       "Source": "Traveless",
-      "ContentRoot": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\Traveless.styles.css",
+      "Identity": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\Traveless.styles.css",
       "SourceId": "Traveless",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "Traveless.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\Traveless.styles.css"
+      "OriginalItemSpec": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\Traveless.styles.css"
     },
     {
-      "Identity": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\Traveless.bundle.scp.css",
+      "Identity": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\Traveless.bundle.scp.css",
       "SourceId": "Traveless",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\",
       "BasePath": "/",
       "RelativePath": "Traveless.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\Traveless.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\Traveless.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\css\\app.css",
+      "Identity": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\css\\app.css",
       "SourceId": "Traveless",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "Traveless",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Traveless",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,48 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\Data\\airports.csv",
       "SourceId": "Traveless",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "Data/airports.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Data\\airports.csv"
+    },
+    {
+      "Identity": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\Data\\flights.csv",
+      "SourceId": "Traveless",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "Data/flights.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Data\\flights.csv"
+    },
+    {
+      "Identity": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\favicon.png",
+      "SourceId": "Traveless",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -131,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\index.html",
       "SourceId": "Traveless",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index.html",
       "AssetKind": "All",

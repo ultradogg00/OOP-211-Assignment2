@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\Traveless.csproj": {}
+    "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\Traveless.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\Traveless.csproj": {
+    "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\Traveless.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\Traveless.csproj",
+        "projectUniqueName": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\Traveless.csproj",
         "projectName": "Traveless",
-        "projectPath": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\Traveless.csproj",
+        "projectPath": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\Traveless.csproj",
         "packagesPath": "C:\\Users\\dashi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dashi\\Documents\\oop2-211\\Traveless\\obj\\",
+        "outputPath": "C:\\Users\\dashi\\Documents\\oop2-211\\OOP-211-Assignment2\\Traveless\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
