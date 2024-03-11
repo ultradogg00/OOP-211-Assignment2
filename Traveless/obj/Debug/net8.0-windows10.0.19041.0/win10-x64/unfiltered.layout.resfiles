@@ -1,5 +1,6 @@
 Components\Layout\MainLayout.razor.css
 Components\Layout\NavMenu.razor.css
+Components\Pages\Reservation.razor.cs
 OpenSans-Regular.ttf
 appicon.ico
 appiconLargeTile.scale-100.png
@@ -65,5 +66,6 @@ wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map
 wwwroot\Data\airports.csv
 wwwroot\Data\flights.csv
+wwwroot\Data\reservations.csv
 wwwroot\favicon.png
 wwwroot\index.html
