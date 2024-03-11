@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|c:\\users\\chelsea yang\\desktop\\cprg211\\assignment 2\\traveless\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|c:\\users\\chelsea yang\\desktop\\cprg211\\assignment 2\\traveless\\components\\pages\\reservation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|solutionrelative:components\\pages\\reservation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|c:\\users\\chelsea yang\\desktop\\cprg211\\assignment 2\\traveless\\components\\pages\\reservation.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|solutionrelative:components\\pages\\reservation.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|c:\\users\\chelsea yang\\desktop\\cprg211\\assignment 2\\traveless\\components\\pages\\flights.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|solutionrelative:components\\pages\\flights.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|c:\\users\\chelsea yang\\desktop\\cprg211\\assignment 2\\traveless\\models\\reservationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|solutionrelative:models\\reservationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|c:\\users\\chelsea yang\\desktop\\cprg211\\assignment 2\\traveless\\components\\pages\\flights.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|solutionrelative:components\\pages\\flights.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|c:\\users\\chelsea yang\\desktop\\cprg211\\assignment 2\\traveless\\wwwroot\\data\\flights.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|solutionrelative:wwwroot\\data\\flights.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|c:\\users\\chelsea yang\\desktop\\cprg211\\assignment 2\\traveless\\wwwroot\\data\\reservations.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|solutionrelative:wwwroot\\data\\reservations.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|c:\\users\\chelsea yang\\desktop\\cprg211\\assignment 2\\traveless\\wwwroot\\data\\airports.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|solutionrelative:wwwroot\\data\\airports.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|c:\\users\\chelsea yang\\desktop\\cprg211\\assignment 2\\traveless\\models\\reservationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|solutionrelative:models\\reservationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|c:\\users\\chelsea yang\\desktop\\cprg211\\assignment 2\\traveless\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97C8466-EDD8-4621-8204-09DF3786ED75}|Traveless.csproj|solutionrelative:models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 438,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "flights.csv",
+              "DocumentMoniker": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\wwwroot\\Data\\flights.csv",
+              "RelativeDocumentMoniker": "wwwroot\\Data\\flights.csv",
+              "ToolTip": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\wwwroot\\Data\\flights.csv",
+              "RelativeToolTip": "wwwroot\\Data\\flights.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-03-11T05:32:48.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Flights.razor",
+              "DocumentMoniker": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\Components\\Pages\\Flights.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Flights.razor",
+              "ToolTip": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\Components\\Pages\\Flights.razor",
+              "RelativeToolTip": "Components\\Pages\\Flights.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T22:58:35.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationManager.cs",
+              "DocumentMoniker": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\Models\\ReservationManager.cs",
+              "RelativeDocumentMoniker": "Models\\ReservationManager.cs",
+              "ToolTip": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\Models\\ReservationManager.cs",
+              "RelativeToolTip": "Models\\ReservationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T02:49:39.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Flights.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\Components\\Pages\\Flights.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\Flights.razor.cs",
+              "ToolTip": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\Components\\Pages\\Flights.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\Flights.razor.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T08:44:55.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T01:39:13.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservation.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\Components\\Pages\\Reservation.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\Reservation.razor.cs",
+              "ToolTip": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\Components\\Pages\\Reservation.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\Reservation.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T08:43:35.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "reservations.csv",
+              "DocumentMoniker": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\wwwroot\\Data\\reservations.csv",
+              "RelativeDocumentMoniker": "wwwroot\\Data\\reservations.csv",
+              "ToolTip": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\wwwroot\\Data\\reservations.csv",
+              "RelativeToolTip": "wwwroot\\Data\\reservations.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-03-11T05:18:28.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "airports.csv",
+              "DocumentMoniker": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\wwwroot\\Data\\airports.csv",
+              "RelativeDocumentMoniker": "wwwroot\\Data\\airports.csv",
+              "ToolTip": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\wwwroot\\Data\\airports.csv",
+              "RelativeToolTip": "wwwroot\\Data\\airports.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-03-11T05:20:07.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservationModel.cs",
+              "DocumentMoniker": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\Models\\ReservationModel.cs",
+              "RelativeDocumentMoniker": "Models\\ReservationModel.cs",
+              "ToolTip": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\Models\\ReservationModel.cs",
+              "RelativeToolTip": "Models\\ReservationModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T00:32:01.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\Models\\Reservation.cs",
+              "RelativeToolTip": "Models\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T04:20:25.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 438,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation.razor",
+              "DocumentMoniker": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\Components\\Pages\\Reservation.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Reservation.razor",
+              "ToolTip": "C:\\Users\\Chelsea Yang\\Desktop\\CPRG211\\Assignment 2\\Traveless\\Components\\Pages\\Reservation.razor",
+              "RelativeToolTip": "Components\\Pages\\Reservation.razor",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAD0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T05:00:54.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
